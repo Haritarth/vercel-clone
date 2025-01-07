@@ -1,7 +1,5 @@
 # Vercel Clone
 
-Whiteboard Diagram: https://app.eraser.io/workspace/0f8XnDF61iGcatypPqIR?origin=share
-
 ### Setup Guide
 
 This Project contains following services and folders:
