@@ -1,7 +1,5 @@
 # Vercel Clone
 
-YouTube Video Link: https://youtu.be/0A_JpLYG7hM
-
 Whiteboard Diagram: https://app.eraser.io/workspace/0f8XnDF61iGcatypPqIR?origin=share
 
 ### Prerequisite
